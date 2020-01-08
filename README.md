@@ -1,7 +1,7 @@
 
 ------ ------   TweetsApp  ------  ------
 
-This is a CRUD application using java and couchDB to manipulate Tweets.
+This is a CRUD application using Spark, Java and CouchDB to manipulate Tweets.
 The operations supported by the application are the:
 - insertion
 - update
